@@ -1,0 +1,144 @@
+#1 - Example
+The following is a discussion involving Jeff, the lead developer and our mentor. We are discussing about bugs we found in the new upcoming CSUDH portal.
+
+
+Jeffrey Juarez-Araniva Feb 14, 13:17
+Hi Gautham - can you please try again and send me your results? Thank you!
+Jeffrey Juarez-Araniva Feb 14, 13:18
+I'm looking for an attribute that says "calstateEduPersonAffiliation" like this:
+You Feb 14, 13:27
+Sure checking now
+You Feb 14, 13:35
+I still don't see the field you are looking for, should I try changing persona's?
+Jeffrey Juarez-Araniva Feb 14, 13:50
+@Gautham Amarnath - try logging out and then back into the site. @Mayank Sharma - this is good.  Thank you!
+Mayank Sharma Feb 14, 13:54
+It says calstateEduPersonAffiliation
+["Student","Staff"]
+@Jeffrey Juarez-Araniva what are we looking for?
+Jeffrey Juarez-Araniva Feb 14, 13:55
+Got it -thanks.  Yes - the vendor and I are troubleshooting and we want to capture the value of this key coming from the active directory.  We want to make sure we identify users who are student workers (like you and the other guys here)
+Mayank Sharma Feb 14, 13:57
+Okay.
+
+
+
+
+
+#2 - Second example.
+The following is a meeting with the lead developer and the stakeholder of the CSUDH Esports Team.
+This was the requirements specifications phase where we discussed about the features which could be built and some which could not be achieved under the current portal.
+
+
+
+Included task into DX_Internship
+Assigned task to Gautham Amarnath
+Shared task with Bryan Cortes Mayank Sharma
+Updated description
+
+Kevin BuchmillerFeb 2311:55
+Added in updated logos with file names matching the appropriate pillars. I believe the transparent will be harder to see, so I have also attached a white background version. These can be included in place of where they are now.
+
+
+Jeffrey Juarez-AranivaFeb 2315:35
+Thanks @Kevin Buchmiller for providing.
+
+Bryan Cortes 
+Feb 2320:43
+@Jeffrey Juarez-Araniva Done. You can see the changes here so far. Let me know if there needs to be other changes. https://dhesports1dv.wpengine.com/wp-admin/post.php?post=1905&action=edit
+New
+
+Kevin BuchmillerFeb 2409:19
+@Bryan Cortes Small thing I noticed, the community tab's pillar icon is not appearing on the right side. The rest of them alternate as expected between left and right alignment as you click through
+
+Bryan Cortes 
+Feb 2412:51
+@Kevin Buchmiller Hello Kevin, I just fixed the issue with the community tab's pillar. Let me know if there is anything else I can help with. https://dhesports1dv.wpengine.com/about/?preview_id=1905&preview_nonce=86167e50eb&_thumbnail_id=-1&preview=true
+
+Jeffrey Juarez-AranivaFeb 2415:09
+Changed status to Working On
+Updated description
+
+Kevin BuchmillerFeb 2415:21
+@Bryan Cortes Hi Bryan, that looks good on my end
+
+Jeffrey Juarez-AranivaFeb 2415:29
+@Kevin Buchmiller - With the exception of the graphics (which I'm currently working with Laura to get the right sizes, please have a look at the updated page here and let me know if you have any additional requests: https://dhesports1dv.wpengine.com/about-preview/. Were you thinking about deploying this page out to the production / live site? If so, what date did you need it published by?
+
+Jeffrey Juarez-AranivaFeb 2415:30
+Updated description
+
+Jeffrey Juarez-AranivaFeb 2709:48
+Shared task with Laura Drake
+
+Jeffrey Juarez-AranivaFeb 2709:48
+@Kevin Buchmiller - Quick update. I have two preview pages showing the current icons that Laura provided. Let me know if you have a preference. Note: @Laura Drake was thinking that (no the transparent version), maybe a black icon would look better. I agree (if we want to go with that option).
+
+* Transparent background icons: https://dhesports1dv.wpengine.com/about-preview/
+* White background icons: https://dhesports1dv.wpengine.com/about-white-background-images/
+
+Kevin BuchmillerFeb 2714:46
+@Jeffrey Juarez-Araniva I think the transparent background looks the best, though I did see the conversation and input from Laura as well. I'm 50/50 on it so either way works.
+
+For the deployment, my current instruction was to get it up as soon as possible. In your opinion, does the page look like it is missing too much to go live in its current state? If so, I can pull some text from the Fall 2022 Update sheet @Laura Drake and I worked on over winter break, and modify it slightly so it fills those gaps nicely. Would love your input here, and can probably have that by end-of-day tomorrow
+
+Jeffrey Juarez-Araniva
+Feb 2722:53
+@Kevin Buchmiller - ok I can have this up by tomorrow. I’ll take at the latest updates provided by Laura ( I didn’t have a chance to test out her latest updates today) for the icons but I think the transparent ones look a bit better. We can always switch later if you prefer the white background as well. As for the page itself, I did think that the accordions look bare without the text. There’s no context aside from the headings. If you have some text, I think that would be better than nothing (in my opinion). Let me know what you decide.
+
+Kevin BuchmillerFeb 2809:13
+@Jeffrey Juarez-Araniva Sounds good, I'll pull that text quickly and get that uploaded here today
+
+Kevin BuchmillerFeb 2810:30
+@Jeffrey Juarez-Araniva Here is the content, uploaded via word doc
+Website Pillars Descriptions_20230228.docx
+DOCX
+
+Jeffrey Juarez-AranivaFeb 2810:44
+@Kevin Buchmiller - Thanks! for the icons, I think either of these versions works - both of these seem like the strongest candidates. Let me know which one you prefer. I put my choice below.
+
+transparent with white icons:  https://dhesports1dv.wpengine.com/about-transparent-background-white-icons/
+white background with white icons (jeff's choice):  https://dhesports1dv.wpengine.com/about-white-background-images-w-black-icons/
+transparent-black-icon.jpg
+Deleted
+
+
+Jeffrey Juarez-AranivaFeb 2811:28
+Deleted file transparent-black-icon.jpg
+
+Jeffrey Juarez-AranivaFeb 2811:29
+@Kevin Buchmiller -
+
+
+Jeffrey Juarez-AranivaFeb 2815:19
+@Kevin Buchmiller - text was added in. Just waiting on confirmation: did you want to go with the icons w/ white background and black icons (a) OR transparent with white icons (b)? FYI: I'm a bit under the weather today so I may not be as quick to respond but I'll be sure to get this done before end of day.
+
+Kevin BuchmillerFeb 2817:17
+@Jeffrey Juarez-Araniva Hi Jeff, so sorry for the late response (slammed with meetings since 2 :laughing:)
+
+I would go with option b, transparent background with white icons.
+
+I hope you feel better! I feel like everyone has been getting this cold, I was under the weather at the end of last week myself.
+
+Jeffrey Juarez-AranivaFeb 2819:59
+Updated description
+
+Jeffrey Juarez-AranivaFeb 2820:04
+@Kevin Buchmiller - Thank you so much for the kind words and no worries about the delay. I've pushed out the changes to production and the about page is now live with the updates. Let us know if anything else is needed. For now, it appears that we can close out this task.
+
+Jeffrey Juarez-AranivaFeb 2820:04
+Changed status to Completed
+This month
+
+Kevin BuchmillerMar 112:09
+Changed status to Issue Encountered
+
+Kevin BuchmillerMar 112:09
+@Jeffrey Juarez-Araniva Minor issue with the production, the text for Career Development came out no left aligned
+
+
+Jeffrey Juarez-AranivaMar 112:27
+@Kevin Buchmiller - Ok, thanks for pointing that out. I've fixed the alignment and the change will be up in production shortly
+
+Jeffrey Juarez-AranivaMar 112:27
+Changed status to Completed
